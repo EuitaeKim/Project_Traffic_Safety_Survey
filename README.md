@@ -1,3 +1,7 @@
+## 설문조사 응답자의 교통사고 및 법규 위반 여부 예측 모델 구축
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/66727848/145807695-53622f1f-7203-4c2f-9f7f-1d2587782f4b.png">
+</br></br></br>
+
 ## 높은 교통사고 사망자 수의 근본 원인
 ![발표자료 001](https://user-images.githubusercontent.com/66727848/145789681-c59aea60-0e74-4dc2-9bae-0ae41bdb73bd.jpeg)
 
