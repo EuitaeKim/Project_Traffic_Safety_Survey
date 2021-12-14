@@ -1,6 +1,6 @@
 ## 설문조사 응답자의 교통사고 및 법규 위반 여부 예측 모델 구축
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/66727848/145807695-53622f1f-7203-4c2f-9f7f-1d2587782f4b.png">
-</br></br></br>
+</br></br>
 
 ## 높은 교통사고 사망자 수의 근본 원인
 ![발표자료 001](https://user-images.githubusercontent.com/66727848/145789681-c59aea60-0e74-4dc2-9bae-0ae41bdb73bd.jpeg)
@@ -20,3 +20,6 @@
 ![발표자료 003](https://user-images.githubusercontent.com/66727848/145804953-6c44c40c-16a3-4a3c-81b3-e0ba851f56f9.jpeg)
 
 따라서 **국내의 높은 교통사고 사망자 수의 근본 원인 중 하나는 국민의 교통안전 의식수준이 아직 선진국 수준으로 정착되지 못한 것에서 기인한다**를 가설로 설정하고 이번 프로젝트를 진행하였습니다. 더불어 가설이 옳을 경우 도출할 수 있는 인사이트, 가설이 틀릴 경우 Plan B 에 해당하는 대안을 구상하여 프로젝트를 진행하였습니다.
+
+
+### [프로젝트 진행 과정 및 결과 상세](https://drive.google.com/file/d/1jmsDmAoi7nKDI0FHEvHd3DyTCv9O-FVj/view?usp=sharing)
